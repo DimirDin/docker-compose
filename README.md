@@ -32,7 +32,7 @@ curl http://127.0.0.1:8080
 
 ### Скриншот
 
-![Screenshot](screnshots/task2.png)
+![Screenshot](screenshots/task2.png)
 
 ## Задача 3: Подключение к потокам и отладка
 
@@ -62,9 +62,9 @@ docker rm -f custom-nginx-t2
 
 ### Скриншоты
 
-![Screenshot](screnshots/task3_1.png)
+![Screenshot](screenshots/task3_1.png)
 
-![Screenshot](screnshots/task3_2.png)
+![Screenshot](screenshots/task3_2.png)
 
 ## Задача 4: Общий том между контейнерами
 
@@ -85,7 +85,7 @@ centos:latest удален из Docker Hub (EOL декабрь 2021). Испол
 
 ### Скриншот
 
-![Screenshot](screnshots/task4.png)
+![Screenshot](screenshots/task4.png)
 
 ## Задача 5: Docker Compose и Portainer
 
@@ -139,11 +139,15 @@ docker compose down -v
 
 ### Скриншоты
 
-![Screenshot](screnshots/task5_1.png)
-![Screenshot](screnshots/task5_2.png)
-![Screenshot](screnshots/task5_3.png)
-![Screenshot](screnshots/task5_4.png)
-![Screenshot](screnshots/task5_5.png)
+![Screenshot](screenshots/task5_1.png)
+
+![Screenshot](screenshots/task5_2.png)
+
+![Screenshot](screenshots/task5_3.png)
+
+![Screenshot](screenshots/task5_4.png)
+
+![Screenshot](screenshots/task5_5.png)
 
 Создай папку для скриншотов и добавь их:
 
