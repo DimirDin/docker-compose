@@ -78,6 +78,7 @@ docker run -d --name debian-container -v "$(pwd):/data" debian:latest sleep 3600
 docker exec centos-container bash -c "echo 'Hello from CentOS' > /data/from-centos.txt"
 echo "Hello from host" > from-host.txt
 docker exec debian-container bash -c "ls -la /data/ && cat /data/*"
+```
 
 ### Примечание
 
