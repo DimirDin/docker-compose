@@ -150,8 +150,3 @@ docker compose down -v
 
 ![Screenshot](screenshots/task5_5.png)
 
-Создай папку для скриншотов и добавь их:
-
-```bash
-mkdir -p ~/Netology/docker-compose/screenshots
-```
